@@ -24,7 +24,7 @@ const typeDefs = gql`
   }
 
   type Query {
-    user: me
+    me: User
   }
 
   type Mutation {
