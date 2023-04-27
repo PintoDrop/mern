@@ -15,9 +15,15 @@
 
 ## Description
 
+For this assignment I was given starter code for a book searching API. With this application a user can login or sign up to search for books using an API. With this application the user can search the API and find books they want to read. The user can also add those books to their profile. With the API the user will be able to search the database for books they may want to read. 
+
 ## Usage
 
+With this application a user can login or signup and be able to search the API for books. The user can also save a book to their profile and view them later. The user will be able to remove any books they do not wish to have on their profile anymore.
+
 ## Installation
+
+You will need to run an npm i to install the packages after cloning this repo.
 
 ## License
 
@@ -84,7 +90,3 @@ GIVEN a book search engine
 ## Screen-Shots
 
 ![Home Page Screenshot]()
-
-![Projects page]()
-
-
